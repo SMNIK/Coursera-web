@@ -4,9 +4,9 @@
 
 #header-nav {
     background-color: #AAA5A5;
-    border-radius: 10%;
+    border-radius: 5%;
     border: 0;    
-    border: solid black 3px;
+    border: solid black 5px;
     margin-bottom: 0;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .text-center {
-    font-family: 'Sofia';
+    font-family: "Times New Roman", Times, serif;
     font-size: 38px;
     font-weight: bold;
     position: relative;
